@@ -1,79 +1,56 @@
 ## Abhishek Gupta
-- Rani (Abhay)
 
-
-## Kajal A
-- Sonam Kumawat (Abhishek)
-- Deepa (Abhishek)
+## Swati  singh
+- Ravina 
+- pooja saini
 - Priya vishawkarma
-- Sapna V
-- Rupa
 
 
 
 ## Sonam Kumawat
 - Twinkle
 - Priyanka
-- Kajal A (Abhishek)
-
-
-## Rani
-- Pooja Sani
-- venu 
-- pooja m
-- swati singh
-- lalita 
 
 
 
 ## Rupa
 - Zeba
 - komal bhatt
-
+- Ankita 
 
 
 ## Priya V
-- Ravina
-- Komal A
-
-
-## Sapna V
-- Divya
-- Subhangi
-- Apeksha
-
-
-
- 
-## Swati Singh
-- Neha Ishrani
-- Kajal Sharma 
-
-
-## Pooja Mahanour
+- Sonam Kumawat
 - Pragati R
 
 
+## Divya
+- Neha Ishrani
+- Kajal Sharma 
+- Sapna V
 
+ 
 ## Venu
+- Rupa
 - Pragati L
-- Sapna D
 
+## Pooja Saini
+- Sapna D
 
 
 ## Ravina
 - Priya M
-- Ankita
+- Swati Singh
 
 
 
 ## Ankita 
 - Rashmi 
+- Divya
+
 
 
 ## Neha
 - Swati N
 
 
-## Apeksha
-- Jashoda
